@@ -41,12 +41,12 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-	<img alt="dhruv dugar's Github Stats" src="https://raw.githubusercontent.com/Dhruv-Dugar/github-stats/119b58c4cf3df7c1acd85874b2cb8045316e690c/generated/overview.svg?token=AVMJ5X5QHRQUFRQQ4FDHDFDCVK65U#gh-dark-mode-only" />
+	<img alt="dhruv dugar's Github Stats" src="https://raw.githubusercontent.com/Dhruv-Dugar/github-stats/119b58c4cf3df7c1acd85874b2cb8045316e690c/generated/overview.svg#gh-dark-mode-only" />
 </details>
 
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  <img alt="dhruv dugar's Top Languages" src="https://raw.githubusercontent.com/Dhruv-Dugar/github-stats/119b58c4cf3df7c1acd85874b2cb8045316e690c/generated/languages.svg?token=AVMJ5X53GAWUMJLT3KADZ7TCVK65Y2#gh-dark-mode-only" />
+  <img alt="dhruv dugar's Top Languages" src="https://raw.githubusercontent.com/Dhruv-Dugar/github-stats/119b58c4cf3df7c1acd85874b2cb8045316e690c/generated/languages.svg#gh-dark-mode-only" />
   <br/>
 </details>
