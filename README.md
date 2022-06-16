@@ -1,7 +1,7 @@
 # Hi, I'm Dhruv Dugar 🙋‍♂️
 
 ## I'm a developer, student at BITS Pilani in my third year pursuing Chemical Engineering.
-## I love to make cool stuff using Python, OpenCV and currently learning ReactJS 
+## I love to make cool stuff using Python, OpenCV and currently learning Flutter 
 
 ## 📖 About me
 
