@@ -41,14 +41,12 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-	![](https://raw.githubusercontent.com/dhruv-dugar/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-	![](https://raw.githubusercontent.com/dhruv-dugar/github-stats/master/generated/overview.svg#gh-light-mode-only)
+	<img src="https://raw.githubusercontent.com/dhruv-dugar/github-stats/master/generated/overview.svg#gh-dark-mode-only">
 </details>
 
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-	![](https://raw.githubusercontent.com/dhruv-dugar/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-	![](https://raw.githubusercontent.com/dhruv-dugar/github-stats/master/generated/languages.svg#gh-light-mode-only)
+	<img src="https://raw.githubusercontent.com/dhruv-dugar/github-stats/master/generated/languages.svg#gh-dark-mode-only">
   <br/>
 </details>
