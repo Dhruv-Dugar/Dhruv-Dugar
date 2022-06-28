@@ -47,6 +47,6 @@
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-	<img src="https://raw.githubusercontent.com/dhruv-dugar/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+	<img src="https://raw.githubusercontent.com/Dhruv-Dugar/github-stats/master/generated/languages.svg#gh-dark-mode-only">
   <br/>
 </details>
