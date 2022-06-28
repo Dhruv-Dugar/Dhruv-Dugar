@@ -41,7 +41,7 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-	<img src="https://raw.githubusercontent.com/dhruv-dugar/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+	<img src="https://raw.githubusercontent.com/Dhruv-Dugar/github-stats/master/generated/overview.svg">
 </details>
 
 <details> 
