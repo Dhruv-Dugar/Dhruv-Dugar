@@ -24,6 +24,8 @@
 	<code> <img height="32" width="32" src="images/html5.svg" /> </code>
 	<code> <img height="32" width="32" src="images/css3.svg" /> </code>
 	<code> <img height="32" width="32" src="images/linux.svg" /> </code>
+	<code> <img height="32" width="32" src="images/react.svg" /> </code>
+	<code> <img height="32" width="32" src="images/flutter.svg" /> </code>
 </p> 
 
 
@@ -40,6 +42,7 @@
 
 <details>
   <summary>📊 GitHub Profile Stats</summary>
+
   <br/>
 	<img src="https://raw.githubusercontent.com/Dhruv-Dugar/github-stats/master/generated/overview.svg#gh-dark-mode-only">
 </details>
