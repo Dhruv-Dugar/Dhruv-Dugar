@@ -1,13 +1,13 @@
 # Hi, I'm Dhruv Dugar 🙋‍♂️
 
 ## I'm a developer, student at BITS Pilani in my third year pursuing Chemical Engineering.
-## I love to make cool stuff using Python, OpenCV and currently learning Flutter 
+## I love to make cool stuff using Swift, Python and currently learning CoreML 
 
 ## 📖 About me
 
-- 💻 Exploring **ML and its applications in IoT and Home Automation**
+- 💻 Exploring **Swift and its applications in CoreML and AR**
 
-- 🌱 Learning **OpenCV and Django**
+- 🌱 Learning **CoreML and Firebase**
 
 - ❤️ Likes **Web Development**
 
