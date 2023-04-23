@@ -18,6 +18,8 @@
 ## 💻 Technologies and Tools
 <p align="left"> 
 	<code> <img height="32" width="32" src="images/c.svg"/></code>
+	<code> <img height="32" width="32" src="images/swift.png"/></code>
+	<code> <img height="32" width="32" src="images/coreml.png"/></code>
 	<code> <img height="32" width="32" src="images/js.svg" /> </code>
 	<code> <img height="32" width="32" src="images/python.svg" /> </code>
 	<code> <img height="32" width="32" src="images/git.svg" /> </code>
@@ -33,7 +35,7 @@
 - ✉️ Email: [dhruvdugar02@gmail.com](mailto:dhruvdugar02@gmail.com)  
 - ✉️ University Email: [f20201322@pilani.bits-pilani.ac.in](mailto:f20201322@pilani.bits-pilani.ac.in)
 - LinkedIn: [Dhruv Dugar](https://www.linkedin.com/in/dhruv-dugar-9748b1218/)
-- [Resume](https://www.dropbox.com/s/ytd9isz23ge6t1y/Dhruv%20Dugar%20resume.pdf?dl=0)
+- [Resume]https://dhruvdugar.netlify.app/static/media/Dhruv-Dugar.a44748d1ee395ca19f93.pdf)
 
 
 
