@@ -35,7 +35,7 @@
 - ✉️ Email: [dhruvdugar02@gmail.com](mailto:dhruvdugar02@gmail.com)  
 - ✉️ University Email: [f20201322@pilani.bits-pilani.ac.in](mailto:f20201322@pilani.bits-pilani.ac.in)
 - LinkedIn: [Dhruv Dugar](https://www.linkedin.com/in/dhruv-dugar-9748b1218/)
-- [Resume]https://dhruvdugar.netlify.app/static/media/Dhruv-Dugar.a44748d1ee395ca19f93.pdf)
+- [Resume](https://dhruvdugar.netlify.app/static/media/Dhruv-Dugar.a44748d1ee395ca19f93.pdf)
 
 
 
